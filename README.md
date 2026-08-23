@@ -1,66 +1,63 @@
 # Hi, I'm Yash Jain 👋
 
-Backend Software Engineer focused on building scalable backend systems, distributed architectures, AI-powered applications, and developer infrastructure.
+**Backend Engineer** focused on building scalable backend systems, production APIs, distributed workflows, and AI-powered applications.
 
-I'm passionate about designing production-grade software that is reliable, maintainable, and built to scale.
+I enjoy solving real-world engineering problems with a focus on reliability, maintainability, performance, and thoughtful system design.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Building
 
 ### PulseWatch
-An observability platform for log management, metrics, error tracking, dashboards, and alerting.
+Observability platform for log management, metrics, error tracking, dashboards, and alerting.
 
 ### DeskLoop
-A real-time customer support platform featuring live chat, event-driven architecture, ticketing, and distributed messaging.
+Real-time customer support platform with live chat, ticketing, event-driven architecture, and distributed messaging.
 
 ### DocMind
-A multi-tenant AI knowledge platform with Retrieval-Augmented Generation (RAG), hybrid search, evaluation pipelines, and intelligent document workflows.
+Multi-tenant AI knowledge platform with RAG, hybrid search, evaluation pipelines, and intelligent document workflows.
 
 ---
 
 ## 🎯 Engineering Focus
 
 - Backend Engineering
+- API Design & Backend Architecture
 - Distributed Systems
+- Database Engineering
+- AI/LLM Applications
+- Cloud & DevOps
 - System Design
-- AI Applications
-- Cloud-native Architecture
-- Developer Infrastructure
-- Developer Experience (DX)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-TypeScript • JavaScript • Python
+**Languages**  
+TypeScript • JavaScript • Python • C++
 
-### Backend
-Node.js • Express.js • FastAPI
+**Backend**  
+Node.js • NestJS • Express.js • FastAPI • Celery • Temporal
 
-### Frontend
-React • Next.js
-
-### Databases
+**Databases**  
 PostgreSQL • MongoDB • Redis
 
-### Infrastructure
-Docker • Kubernetes • GitHub Actions • Terraform
+**AI/LLM**  
+OpenAI • RAG • Embeddings • Vector Search • Pinecone • Cohere
 
-### Cloud
-AWS • Azure
+**Cloud & Infrastructure**  
+AWS • Azure • Docker • Terraform • GitHub Actions • CI/CD
 
-### AI
-OpenAI • LangChain • Vector Databases • RAG
+**Frontend**  
+React • Next.js
 
 ---
 
 ## 📚 Currently Learning
 
+- Advanced Backend Architecture
 - Distributed Systems
-- Advanced System Design
-- Kubernetes
+- System Design
 - Cloud Infrastructure
 - AI Engineering
 
@@ -68,5 +65,4 @@ OpenAI • LangChain • Vector Databases • RAG
 
 ## 🤝 Connect
 
-- LinkedIn
-- Portfolio *(Coming Soon)*
+[LinkedIn](https://www.linkedin.com/in/yjain30/)
